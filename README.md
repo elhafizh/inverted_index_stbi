@@ -10,7 +10,7 @@ $ conda create --name inv_ind_stbi python=3.9
 ```
 $ conda activate inv_ind_stbi
 ```
-5. Install the packages from `environment.yml` into an existing environment
+5. Install the packages from `environment.yaml` into an existing environment
 ```
 $ conda env update --file environment.yml
 ```
