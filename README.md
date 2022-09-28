@@ -18,4 +18,4 @@ $ conda env update --file environment.yml
 ```
 $ jupyter lab
 ```
-7. Download [nlp_tokens.pkl](https://drive.google.com/file/d/1Mqyp7wrWHd69KLZ8vKPrDgxWBcN7Q-kO/view?usp=sharing) for initial processing tokens, then put it in the `datasets` folder.
+7. Download [nlp_tokens.pkl](https://drive.google.com/file/d/1Mqyp7wrWHd69KLZ8vKPrDgxWBcN7Q-kO/view?usp=sharing) for initial processing tokens, then put it in the `dataset` folder.
